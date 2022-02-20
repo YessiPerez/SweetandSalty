@@ -42,7 +42,7 @@ Change of company image (logo, company name, color palette).
 
 ## FAQs
 A list of frequently asked questions
-1. *Which browser do I have to use*
+1. *Which browser do I have to use?*
    The code of good practice in CSS has been followed so that any browser can be used.
 2. *Can I access from mobile device?*
    Yes, we have followed the mobile first philosophy to optimize navigation and positioning.
