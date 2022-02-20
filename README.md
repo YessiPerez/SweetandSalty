@@ -30,17 +30,17 @@ A little intro about the installation.
 4. Click the Download ZIP button. This action will download the repository to the computer as a .zip file.
 
 
-##Functionalities
+## Functionalities
 We have designed a 16x16 px favicon to identify the web on the Internet, for example, in the browser tab.
 The product catalog has been divided into categories using HTML containers and CSS.
 When passing over the image of the product the user can see the description of it, for this we have included Javascript.
 
-##Requeriments:
+## Requeriments:
 A page where you can see the product catalog.
 A page where the target audience (target) can see the relevant information of each product.
 Change of company image (logo, company name, color palette).
 
-##FAQs
+## FAQs
 A list of frequently asked questions
 1. *Which browser do I have to use*
    The code of good practice in CSS has been followed so that any browser can be used.
