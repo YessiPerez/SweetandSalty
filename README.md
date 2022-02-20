@@ -2,8 +2,8 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [FUNCTIONALITIES] (#functionalities)
-5. [REQUERIMENTS] (#requeriments)
+4. [Functionalities](#functionalities)
+5. [Requeriments](#requeriments)
 6. [FAQs](#faqs)
 
 ## General Info
