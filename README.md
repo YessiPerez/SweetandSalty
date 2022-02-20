@@ -1,12 +1,12 @@
 # SweetandSalty
 
-#Candy shop
+#Candy shop. Short Description about the project.
 A candy store asks us for a website of its business. It's the first time they're going to have a space on the web. The main idea is to publicize their catalog and provide information about the company and how to contact them.
 
 ##Getting started
 Project documentation is available in the following GitHub repository: https://github.com/230579Raquel/SweetandSalty.git
 
-COMENTARIO: ES NECESARIO PONER COMO CLONAR EL REPOSITORIO ETC? SE SUPONE GITHUB ES DE USO HABITUAL
+#COMO CLONAR EL REPOSITORIO
 
 ##Functionalities
 We have designed a 16x16 px favicon to identify the web on the Internet, for example, in the browser tab. We have used xxxxxx and xxxxx.
