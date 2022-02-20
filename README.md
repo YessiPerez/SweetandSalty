@@ -46,7 +46,7 @@ A list of frequently asked questions
    The code of good practice in CSS has been followed so that any browser can be used.
 2. *Can I access from mobile device?*
    Yes, we have followed the mobile first philosophy to optimize navigation and positioning.
-3. 
+   
 ##Authors
 BabyCoders
 
