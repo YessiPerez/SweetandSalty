@@ -16,7 +16,10 @@ When passing over the image of the product the user can see the description of i
 ##Build with
 HTML, CSS, JAVASCRIPT.
 
-##Requeriments
+##Requeriments:
+A page where you can see the product catalog.
+A page where the target audience (target) can see the relevant information of each product.
+Change of company image (logo, company name, color palette).
 
 ##Authors
 BabyCoders
