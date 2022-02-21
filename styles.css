@@ -1,0 +1,76 @@
+*
+{
+    font-family: "Comic Sans", cursive;
+    margin: 0;
+    padding: 0;
+}
+
+p
+{
+    white-space: pre-line;
+}
+
+body, main
+{
+    background-color: #FBCFD0;
+}
+
+#section
+{
+    display: flex;
+    background-image: url("banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 35px;
+}
+
+#logo
+{
+    border-radius: 35px;
+    border-color: black;
+    border-style: solid;
+}
+
+#redirections
+{
+    background-color: #f04f4f;
+    border-radius: 35px;
+}
+
+#redirections-list
+{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+#link
+{
+    padding: 20px;
+    vertical-align: middle;
+    border: 10px solid #7c1010;
+    border-radius: 15px;
+    background: rgb(240, 81, 81);
+    font-size: 20pt;
+}
+  
+#link:hover
+{
+    background: #f0f07f;
+}
+
+#description
+{
+    display: flex;
+    justify-content: space-evenly;
+    border-color: black;
+    border-style: solid;
+}
+
+.vCard
+{
+    font-size: 15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+}

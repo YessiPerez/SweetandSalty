@@ -1,0 +1,119 @@
+* {
+    font-family: "Comic Sans", cursive;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #fbcfd0;
+  }
+  
+  #section1
+  {
+      display: flex;
+      background-image: url("images/banner.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      border-radius: 35px;
+  }
+  
+  #logo
+  {
+      border-radius: 35px;
+      border-color: black;
+      border-style: solid;
+  }
+  
+  nav {
+    background-color: #f04f4f;
+    max-width: 100%;
+    min-width: 50px;
+    margin-top: -5px;
+  }
+  
+  li {
+    background-color: #f04f4f;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .iluminacion {
+    border: 10px solid #7c1010;
+    border-radius: 15px;
+    background: #f04f4f;
+    font-size: 20pt;
+  }
+  
+  .iluminacion:hover {
+    background: #f0f07f;
+  }
+  
+  .borde {
+    margin: 30px;
+    border: 10px solid #7c1010;
+    border-radius: 15px;
+    background: #bcdf97;
+  }
+  
+  #encabezado-categoria {
+    border-top: 1px solid #7c1010;
+    border-left: 1px solid #7c1010;
+    border-right: 1px solid #7c1010;
+    border-bottom: 11px solid #7c1010;
+    background: #f04f4f;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 20pt;
+  }
+  
+  #encabezado-categoria:hover {
+    background: #f0f07f;
+  }
+  
+  #flex-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .item {
+    padding: 10px;
+  }
+  
+  figure {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 30px;
+  }
+  
+  figcaption {
+    text-align: left;
+  }
+  
+  .redondeado {
+    border-radius: 15px;
+  }
+  
+  .vCard {
+    font-size: 15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+  }
+
+.lollipop, .santjordi
+{
+    display: none;
+    position: absolute;
+    opacity: 0;
+    background-color: aqua;
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-style: groove;
+    box-shadow: #bcdf97;
+}

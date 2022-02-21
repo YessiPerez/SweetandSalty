@@ -1,0 +1,51 @@
+@media(min-width:380px) and (max-width:900px) {
+    body {
+      font-family: "Comic Sans", cursive;
+    }
+    section {
+      margin: 3px;
+    }
+  
+    .borde {
+      margin: 10px;
+      border: 10px solid #7c1010;
+      border-radius: 15px;
+      background: #bcdf97;
+      width: fit-content;
+    }
+  
+    #encabezado-categoria {
+      border-top: 1px solid #7c1010;
+      border-left: 1px solid #7c1010;
+      border-right: 1px solid #7c1010;
+      border-bottom: 11px solid #7c1010;
+      background: #f04f4f;
+      padding-right: 5%;
+      padding-left: 5%;
+      font-size: 20pt;
+    }
+  
+    #flex-container {
+      display: flex;
+      justify-content: center;
+    }
+  
+    .item {
+      margin: 2px;
+    }
+  
+    figure {
+      display: flex;
+      justify-content: center;
+    }
+  
+    figcaption {
+      text-align: center;
+      font-size: 8pt;
+    }
+  
+    .redondeado {
+      border-radius: 15px;
+      width: 80%;
+    }
+  }
