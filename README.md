@@ -25,7 +25,7 @@ A list of technologies used within the project:
 ## Installation
 A little intro about the installation. 
 1. Go to GitHub to download the files from the repository.
-2. Go to the repository: https://github.com/230579Raquel/SweetandSalty.git.
+2. Go to the repository: https://github.com/YessiPerez/SweetandSalty
 3. click on the green button that says 'download or clone'.
 4. Click the Download ZIP button. This action will download the repository to the computer as a .zip file.
 
